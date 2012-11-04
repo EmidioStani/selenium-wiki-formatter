@@ -1,0 +1,4 @@
+content wikiformatter chrome/content/
+
+# Custom format
+overlay chrome://selenium-ide/content/selenium-ide-common.xul chrome://wikiformatter/content/formats/Wikiformat-loader.xul
