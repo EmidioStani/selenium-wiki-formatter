@@ -1,6 +1,6 @@
 const WIKIFORMATTER_ID = 'emidiostani@gmail.com';
 
-function initializexmlformatterObserver()
+function initializewikiformatterObserver()
 {
     wikiformatterObserver.register();
 }
